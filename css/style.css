@@ -5,5 +5,31 @@
 }
 
 h2{
-  color: red;
+  color: red;}
+  
+article {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 23px;
+
+  margin: 20px;
+
+  padding: 30px;
+}
+
+p {
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+.img-1 {
+  box-shadow: 0 0 30px #333;
+}
+
+.img-2 {
+  box-shadow: 0 0 30px #333;
 }
