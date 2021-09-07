@@ -3,3 +3,23 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+html {
+}
+
+article {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+
+  margin: 20px;
+  padding: 30px;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+.img-1 {
+  box-shadow: 0 0 30px #333;
+}
