@@ -33,3 +33,33 @@ div {
 .img-2 {
   box-shadow: 0 0 30px #333;
 }
+
+nav a{
+color: rgb(39, 36, 36);
+
+text-decoration: none;
+}
+
+.header-nav{
+font-size: 21px;
+
+  /* list-style: none;
+
+
+
+  display: flex;
+  justify-content: flex-end ;
+   */
+   display: flex;
+   justify-content: flex-end ;
+}
+
+.nav-item{
+  display:inline-block;
+}
+
+.header-nav a{
+display: block;
+padding: 1px 1rem;
+
+}
