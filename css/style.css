@@ -4,9 +4,10 @@
   box-sizing: border-box;
 }
 
-h2{
-  color: red;}
-  
+h2 {
+  color: red;
+}
+
 article {
   font-family: "Times New Roman", Times, serif;
   font-size: 23px;
@@ -34,32 +35,27 @@ div {
   box-shadow: 0 0 30px #333;
 }
 
-nav a{
-color: rgb(39, 36, 36);
+nav a {
+  color: rgb(39, 36, 36);
 
-text-decoration: none;
+  text-decoration: none;
 }
 
-.header-nav{
-font-size: 21px;
-
-  /* list-style: none;
-
-
+.header-nav {
+  font-size: 21px;
 
   display: flex;
-  justify-content: flex-end ;
-   */
-   display: flex;
-   justify-content: flex-end ;
+  justify-content: flex-end;
+
+  margin-top: 30px;
+  margin-right: 30px;
 }
 
-.nav-item{
-  display:inline-block;
+.header-nav a {
+  display: block;
+  padding: 1px 1rem;
 }
 
-.header-nav a{
-display: block;
-padding: 1px 1rem;
-
+.nav-item {
+  display: inline-block;
 }
